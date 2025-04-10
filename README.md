@@ -11,3 +11,7 @@ Modelagem de uma idéia de banco de dados de uma oficina mecânica.Assim como de
 - Os tópicos supracitados devem estar presentes nas queries;</br>
 - Elaboração de perguntas que podem ser respondidas pelas consultas;</br>
 - As cláusulas podem estar presentes em mais de uma query. </br>
+
+<h3>  Certificado </h3> 
+
+[LHD1YKCJ.pdf](https://github.com/user-attachments/files/19695017/LHD1YKCJ.pdf)
